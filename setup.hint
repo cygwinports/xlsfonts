@@ -1,4 +1,4 @@
 category: X11
 requires: cygwin libX11_6
-sdesc: "Xorg server font lister"
-ldesc: "Xorg server font lister"
+sdesc: "X.Org server font lister"
+ldesc: "X.Org server font lister"

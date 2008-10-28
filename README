@@ -1,6 +1,6 @@
 xlsfonts
 ------------------------------------------
-Xorg server font lister
+X.Org server font lister
 
 Runtime requirements:
   cygwin-1.5.24-2
